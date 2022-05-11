@@ -1,0 +1,12 @@
+Training{
+	course=Course{name='JavaSpring5', description='Java Enterprise Applications', numHours=40},
+	startDate=2022.3.21,
+	endDate=2022.3.25,
+	pricePerStudent=1443.0
+		Student{ID='1670513010018', firstName='Nemes', lastName='Levente'}
+		Student{ID='1661022062347', firstName='Biro', lastName='Arpas'}
+		Student{ID='2891220070818', firstName='Berekmeri', lastName='Emoke'}
+		Student{ID='2830715053018', firstName='Janosi', lastName='Kinga'}
+		Student{ID='2840816060418', firstName='Kerekes', lastName='Izabella'}
+		Student{ID='1720626020015', firstName='Biro', lastName='Tamas'}
+}

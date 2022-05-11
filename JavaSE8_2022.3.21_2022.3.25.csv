@@ -1,0 +1,12 @@
+Training{
+	course=Course{name='JavaSE8', description='Java Standard Edition 8', numHours=40},
+	startDate=2022.3.21,
+	endDate=2022.3.25,
+	pricePerStudent=1452.0
+		Student{ID='2820614052018', firstName='Kovacs', lastName='Emese'}
+		Student{ID='2830715053018', firstName='Janosi', lastName='Kinga'}
+		Student{ID='1780824043217', firstName='Godri', lastName='Istvan'}
+		Student{ID='2901121070018', firstName='Bogacs', lastName='Katalin'}
+		Student{ID='1670513010018', firstName='Nemes', lastName='Levente'}
+		Student{ID='1661022062347', firstName='Biro', lastName='Arpas'}
+}
